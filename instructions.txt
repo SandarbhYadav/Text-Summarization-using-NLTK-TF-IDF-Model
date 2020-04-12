@@ -1,0 +1,5 @@
+How to run ?
+1. Install NLTK library and download necessary files like stopwords etc.
+2. run 'summarize.py
+3. The program randomly chooses an article in the files folder, which contains 4 at present and returns the summary.
+4. TF-IDF model only returns accurate summaries if the input text/data is rich in information about a particular topic. Else it just doesn't make much sense.
